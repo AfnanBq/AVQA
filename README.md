@@ -1,1 +1,1 @@
-# AVQA
+# Arabic Visual Question Answering
