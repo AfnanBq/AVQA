@@ -10,7 +10,8 @@ This Project aims to create VQA system based on Standard Arabic dataset.
 * [Sources](#sources)
 
 ## Introduction
-![alt text](https://github.com/AfnanBq/AVQA/blob/master/architecture.png?raw=true)
+VQA is a research in computer vision and natural language processing to build an automated system to answer given questions about given images. 
+### The architecture of the implemented system
 ![alt text](https://github.com/AfnanBq/AVQA/blob/master/architecture1.png?raw=true)
 ## Scope of functionalities
 The proposed system focuses on two types of questions in Standard Arabic(هل هذه ..؟، ماذا يوجد..؟)for natural language processing side. For example, Is this a cat? "هل هذه قطة" and What is in
