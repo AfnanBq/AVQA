@@ -14,7 +14,7 @@ This Project aims to create VQA system based on Standard Arabic dataset.
 ## Scope of functionalities
 The proposed system focuses on two types of questions in Standard Arabic(هل هذه ..؟، ماذا يوجد..؟)for natural language processing side. For example, Is this a cat? "هل هذه قطة" and What is in
 the picture? "ماذا يوجد في الصورة". For the computer vision side we chose two general catogries: animals and transportation with 18 different classes.
-
+![alt text](https://github.com/AfnanBq/AVQA/blob/master/dataset.png?raw=true)
 
 ## Results
 ![alt text](https://github.com/AfnanBq/AVQA/blob/master/results.png?raw=true)
