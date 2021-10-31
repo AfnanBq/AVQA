@@ -17,7 +17,7 @@ the picture? "ماذا يوجد في الصورة". For the computer vision side
 
 
 ## Results
-![alt text](https://github.com/AfnanBq/AVQA/master/results.png?raw=true)
+![alt text](https://github.com/AfnanBq/AVQA/blob/master/results.png?raw=true)
 ## Technologies
 Project is created with:
 * Python 3.6.8 
