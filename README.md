@@ -1,12 +1,13 @@
 # Arabic Visual Question Answering 
-This Project aims to create 
+This Project aims to create VQA system based on Standard Arabic dataset and MSCOCO dataset. 
 ## Table of contents
 * [Introduction](#introduction)
+* [Results](#results)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## Introduction
-
+## Results
 ## Technologies
 Project is created with:
 * Python 3.6.8 
