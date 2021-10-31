@@ -1,5 +1,5 @@
 # Arabic Visual Question Answering 
-This Project aims to create VQA system based on Standard Arabic dataset and MSCOCO dataset. 
+This Project aims to create VQA system based on Standard Arabic dataset. 
 ## Table of contents
 * [Introduction](#introduction)
 * [Scope of functionalities](#scope-of-functionalities)
@@ -10,7 +10,12 @@ This Project aims to create VQA system based on Standard Arabic dataset and MSCO
 * [References](#references)
 
 ## Introduction
+
 ## Scope of functionalities
+The proposed system focuses on two types of questions in Standard Arabic(هل هذه ..؟، ماذا يوجد..؟)for natural language processing side. For example, Is this a cat? "هل هذه قطة" and What is in
+the picture? "ماذا يوجد في الصورة". For the computer vision side we chose two general catogries: animals and transportation with 18 different classes.
+
+
 ## Results
 ## Technologies
 Project is created with:
