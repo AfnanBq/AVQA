@@ -1,7 +1,7 @@
 # Arabic Visual Question Answering 
 
 ## Table of contents
-* [Introduction](#general-info)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
