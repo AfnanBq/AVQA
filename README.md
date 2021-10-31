@@ -5,6 +5,7 @@ This Project aims to create VQA system based on Standard Arabic dataset and MSCO
 * [Results](#results)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Find Us](#findus)
 
 ## Introduction
 ## Results
@@ -17,8 +18,7 @@ Project is created with:
 * numpy 1.19.5
 * pandas 0.23.0
 * tensorflow 2.5.0
-
-	
+* 
 ## Setup
 To run this project, install it locally:
 * git clone https://github.com/AfnanBq/AVQA.git
@@ -30,3 +30,4 @@ Python train.py --type (train or test) --epoch (number of epoch) --batch_size (n
 * Example 
 Python train.py --type train --epoch 5 --batch_size 16 --train_file_name yes_no_train.json --model_name .. /AVQA/models/yes_no_resnet_withdropout.hdf5 --test_file_name yes_no_test.json 
 ```
+## Find Us
