@@ -5,7 +5,7 @@ This Project aims to create VQA system based on Standard Arabic dataset and MSCO
 * [Results](#results)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Contact Us](#findus)
+* [Contact Us](#contact us)
 
 ## Introduction
 ## Results
