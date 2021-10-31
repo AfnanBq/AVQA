@@ -6,7 +6,7 @@ This Project aims to create VQA system based on Standard Arabic dataset and MSCO
 * [Results](#results)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Contact Us](#contact-us)
+* [Contact us](#contact-us)
 * [References](#references)
 
 ## Introduction
@@ -33,5 +33,5 @@ Python train.py --type (train or test) --epoch (number of epoch) --batch_size (n
 * Example 
 Python train.py --type train --epoch 5 --batch_size 16 --train_file_name yes_no_train.json --model_name .. /AVQA/models/yes_no_resnet_withdropout.hdf5 --test_file_name yes_no_test.json 
 ```
-## Contact Us
+## Contact us
 ## References
