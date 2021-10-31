@@ -1,5 +1,5 @@
 # Arabic Visual Question Answering 
-This Project aims to create VQA system based on Standard Arabic dataset. 
+This project aims to create VQA system based on Standard Arabic dataset. 
 ## Table of contents
 * [Introduction](#introduction)
 * [Scope of functionalities](#scope-of-functionalities)
