@@ -7,7 +7,7 @@ This Project aims to create VQA system based on Standard Arabic dataset.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Contact us](#contact-us)
-* [References](#references)
+* [Sources](#sources)
 
 ## Introduction
 ![alt text](https://github.com/AfnanBq/AVQA/blob/master/architecture.png?raw=true)
@@ -41,4 +41,8 @@ Python train.py --type (train or test) --epoch (number of epoch) --batch_size (n
 Python train.py --type train --epoch 5 --batch_size 16 --train_file_name yes_no_train.json --model_name .. /AVQA/models/yes_no_resnet_withdropout.hdf5 --test_file_name yes_no_test.json 
 ```
 ## Contact us
-## References
+* Afnan Qalas - http://linkedin.com/in/afnanbalghaith
+* Zarah Shibli - https://www.linkedin.com/in/zarah-shibli
+
+## Sources
+This project is inspired by https://visualqa.org/
