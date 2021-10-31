@@ -19,6 +19,7 @@ Project is created with:
 
 	
 ## Setup
+To run this project, install it locally:
 
 ```
 $ Python train.py --type (train or test) --epoch (number of epoch) --batch_size (number of batch size) --train_file_name (json file name) --model_name (to save the model with proposed destination and name) --test_file_name (json file name for testing) 
