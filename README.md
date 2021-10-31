@@ -26,4 +26,6 @@ To run this project, install it locally:
 ```
 * run the following command put your values for the arguments.
 Python train.py --type (train or test) --epoch (number of epoch) --batch_size (number of batch size) --train_file_name (json file name) --model_name (to save the model with proposed destination and name) --test_file_name (json file name for testing) 
+* Example 
+Python train.py --type train --epoch 5 --batch_size 16 --train_file_name yes_no_train.json --model_name .. /AVQA/models/yes_no_resnet_withdropout.hdf5 --test_file_name yes_no_test.json 
 ```
