@@ -15,10 +15,11 @@ VQA is a research in computer vision and natural language processing to build an
 ![alt text](https://github.com/AfnanBq/AVQA/blob/master/architecture1.png?raw=true)
 ## Scope of functionalities
 The proposed system focuses on two types of questions in Standard Arabic(هل هذه ..؟، ماذا يوجد..؟)for natural language processing side. For example, Is this a cat? "هل هذه قطة" and What is in
-the picture? "ماذا يوجد في الصورة". For the computer vision side we chose two general catogries: animals and transportation with 18 different classes. The results of the second questions is not good and it needs for further improvemnet. We recomended that enlarge the size of the dataset and used model for object detection that would resulted in reasonable accuracies
+the picture? "ماذا يوجد في الصورة". For the computer vision side we chose two general catogries: animals and transportation with 18 different classes. 
 ![alt text](https://github.com/AfnanBq/AVQA/blob/master/dataset.png?raw=true)
 
 ## Results
+The results of the second questions is not good and it needs for further improvemnet. We recomended that enlarge the size of the dataset and use other model for object detection that would resulted in reasonable accuracies. 
 ![alt text](https://github.com/AfnanBq/AVQA/blob/master/results.png?raw=true)
 ## Technologies
 Project is created with:
