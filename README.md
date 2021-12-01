@@ -20,7 +20,7 @@ the picture? "ماذا يوجد في الصورة". For the computer vision side
 
 ## Results
 The results of the second questions is not good and it needs for further improvemnet. We recomended that enlarge the size of the dataset and use other model for object detection that would resulted in reasonable accuracies. 
-![alt text](https://github.com/AfnanBq/AVQA/blob/master/results.png?raw=true)
+![alt text](https://github.com/AfnanBq/AVQA/blob/master/picture1.png?raw=true)
 ## Technologies
 Project is created with:
 * Python 3.6.8 
