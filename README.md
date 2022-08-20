@@ -26,7 +26,7 @@ Project is created with:
 * numpy 1.19.5
 * pandas 0.23.0
 * tensorflow 2.5.0
-*
+
 ## Setup
 To run this project, install it locally:
 * git clone https://github.com/AfnanBq/AVQA.git
@@ -41,8 +41,8 @@ Python train.py --type (train or test) --epoch (number of epoch) --batch_size (n
 Python train.py --type train --epoch 5 --batch_size 16 --train_file_name yes_no_train.json --model_name .. /AVQA/models/yes_no_resnet_withdropout.hdf5 --test_file_name yes_no_test.json
 ```
 ## Contact us
-* Afnan Qalas - http://linkedin.com/in/afnanbalghaith
-* Zarah Shibli - https://www.linkedin.com/in/zarah-shibli
+* [Afnan Qalas](http://linkedin.com/in/afnanbalghaith)
+* [Zarah Shibli](https://www.linkedin.com/in/zarah-shibli)
 
 ## Sources
-This project is inspired by https://visualqa.org/
+This project is inspired by [visualqa](https://visualqa.org/)
